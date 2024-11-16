@@ -10,6 +10,5 @@
 ### 🔗 Useful Links
 
 - Personal portfolio: [dylankotzer.com](https://dylankotzer.com)
-- All projects: Check out my work on GitHub!
 
 - Contact me: [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="react" width="30" height="25"/>](https://www.linkedin.com/in/dylan-kotzer-3a5421190/) 
